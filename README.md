@@ -15,5 +15,5 @@
 
 ### How to run
 `
-python3 start_tracker.py
+python3 track-i_main.py
 `
